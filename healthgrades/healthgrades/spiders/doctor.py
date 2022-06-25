@@ -50,7 +50,7 @@ class DoctorSpider(scrapy.Spider):
             '''
         )
 
-        for i in range(1, 87): # Change the range to the page numbers. more improvement can be done
+        for i in range(1, 6): # Change the range to the page numbers. more improvement can be done
             # GET request. url to first page
             yield scrapy.Request(self.url.format(i), headers =h, meta=dict(
                 playwright = True,
