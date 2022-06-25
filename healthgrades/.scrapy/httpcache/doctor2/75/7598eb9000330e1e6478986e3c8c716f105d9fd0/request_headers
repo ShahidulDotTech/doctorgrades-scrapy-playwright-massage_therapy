@@ -1,0 +1,7 @@
+Accept: application/json, text/plain, */*
+Cookie: _hg-872c8312de8a4e5a92ec3eef6acc7f1d=200bf146d6994da288edafd87687355d; hg3.currentLoc=city=Tejgaon&state=C&zip=1215&lat=23.77&lon=90.4&isStateOnly=false; .AspNetCore.Session=CfDJ8Bd5wIxF0mpGhf%2BRWFZh19JrrpxpeXsem5exKMgyKwAh752HmysiF%2BnENRlvRILf4%2FUvMiglbQpVjDU4g3gzk90L8I9O2FFBgRVVJgwzV4vn5Im1WeyGWUPKmqyzT5Bv3avaD5Vl4klRTNqM7MdZ8%2FXn63Sn1MfjR5jg8dmrh9Xd; hg3.searchlocation=isStateOnly=True&city=&state=NY&zip=; hg3.slocsticky=isStateOnly=True&city=&state=NY&zip=; hg.sessionInfo=c2Vzc2lvbklkPVM2NTIzJnJlcXVlc3RJZD1SYWRhNzJjMjMwMWZjMzE5JmV4cGlyZXM9MDYlMkYyNSUyRjIwMjIrMTYlM0E1OCUzQTMz; hg3.search=What=Massage%20Therapy&Where=NY&PageNumber=39&State=NY&SearchType=PracticingSpecialty&EntityCode=PS444&IsStateOnly=true&PracticingSpecialtyCode=PS444&SpecialtyIds=607&Category=Provider
+Referer: https://www.healthgrades.com/usearch?what=Massage%20Therapy&entityCode=PS444&where=New%20York&pageNum=27&sort.provider=bestmatch&=
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.7) Gecko/20150824 Firefox/31.9 PaleMoon/25.7.0
+Sec-Ch-Ua: 
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: 

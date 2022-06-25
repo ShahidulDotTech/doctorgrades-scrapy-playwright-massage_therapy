@@ -1,0 +1,26 @@
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Age: 0
+Cache-Control: no-cache,no-store
+Content-Type: text/html; charset=utf-8
+Date: Sat, 25 Jun 2022 16:52:11 GMT
+Expires: Sat, 01 Dec 2001 00:00:00 GMT
+Pragma: no-cache
+Set-Cookie: hg.sessionInfo=c2Vzc2lvbklkPVM2NTIzJnJlcXVlc3RJZD1SMTk4Mjc0NTc0MTI4MWVlJmV4cGlyZXM9MDYlMkYyNSUyRjIwMjIrMTclM0EyMiUzQTEx; expires=Sat, 25 Jun 2022 17:22:11 GMT; domain=.healthgrades.com; path=/; httponly
+_hg-872c8312de8a4e5a92ec3eef6acc7f1d=ee83ea1f307d41e7bf409a51d254a696; expires=Fri, 25 Jun 2032 16:52:11 GMT; path=/
+hg3.currentLoc=city=Tejgaon&state=C&zip=1215&lat=23.77&lon=90.4&isStateOnly=false; path=/
+.AspNetCore.Session=CfDJ8Bd5wIxF0mpGhf%2BRWFZh19IwsbyV%2B4LX3awmbisRyyTJXd99I2dAwbhHwx8JmHaojsgaVhkTc7wUvUWQsiL%2BAGO%2FCMvmAx4rBgpXvO86cq44RRGZKJknBrlQHs78fIGx4y834T6PVskd%2Fp%2F73XLrXsUBSy2WN5EnlFLhopO23Clm; path=/; samesite=lax; httponly
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding, X-Mobile-Type
+Via: 1.1 varnish (Varnish/6.0), 1.1 47f0d09d9d5d7d899c2e467cfbfb08e0.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: epyFvIWNuXjwnZkzcRV0hOorVc5_E2cjh2FBO26xcCV18dabBt570A==
+X-Amz-Cf-Pop: SIN5-C1
+X-Backend-Name: hg3(10.208.238.170:80)
+X-Cache: Miss from cloudfront
+X-Cachevarn: MISS
+X-Envoy-Upstream-Service-Time: 46
+X-Grace: none
+X-Mobile-Type: desktop
+X-Retries: 0
+X-Robots: noindex,nofollow
+X-Varnish: 23240543

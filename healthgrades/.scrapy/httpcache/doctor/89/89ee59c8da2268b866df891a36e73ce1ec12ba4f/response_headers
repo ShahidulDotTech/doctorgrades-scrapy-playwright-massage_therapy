@@ -1,0 +1,18 @@
+Age: 893
+Content-Type: text/html; charset=utf-8
+Date: Sat, 25 Jun 2022 04:32:41 GMT
+Expires: Sat, 01 Dec 2001 00:00:00 GMT
+Vary: Accept-Encoding
+Via: 1.1 varnish (Varnish/6.0), 1.1 75d57b6f1d28b9be49fef8fc0aa4a23c.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: UvBgdVnyx8TDvgHIJ8qMsIaDjhEClbKx8Uz0z8ulkORnEXmoZXO8-A==
+X-Amz-Cf-Pop: SIN2-P1
+X-App-Name: search-results-app
+X-Backend-Name: nodeapp(10.208.231.184:80)
+X-Cache: Hit from cloudfront
+X-Cachevarn: MISS
+X-Envoy-Upstream-Service-Time: 180
+X-Grace: none
+X-Mobile-Type: desktop
+X-Retries: 0
+X-Robots-Tag: noindex
+X-Varnish: 20830002

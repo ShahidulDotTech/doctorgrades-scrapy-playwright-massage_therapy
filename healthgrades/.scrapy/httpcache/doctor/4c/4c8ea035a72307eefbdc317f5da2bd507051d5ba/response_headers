@@ -1,0 +1,28 @@
+Content-Type: text/html; charset=utf-8
+Date: Sat, 25 Jun 2022 04:47:54 GMT
+Cache-Control: no-cache,no-store
+Pragma: no-cache
+Set-Cookie: hg.sessionInfo=c2Vzc2lvbklkPVNiMWVkJnJlcXVlc3RJZD1SYTEyNjY4MDUzYmVkOGEyNiZleHBpcmVzPTA2JTJGMjUlMkYyMDIyKzA1JTNBMTclM0E1NA--; expires=Sat, 25 Jun 2022 05:17:54 GMT; domain=.healthgrades.com; path=/; httponly
+Set-Cookie: _hg-872c8312de8a4e5a92ec3eef6acc7f1d=60069b39569f46d89792ec199875ee93; expires=Fri, 25 Jun 2032 04:47:54 GMT; path=/
+Set-Cookie: hg3.currentLoc=city=Tejgaon&state=C&zip=1215&lat=23.77&lon=90.4&isStateOnly=false; path=/
+Set-Cookie: hg3.viewed.profile=1xylfjw5; expires=Sat, 25 Jun 2022 05:17:54 GMT; path=/
+Set-Cookie: .AspNetCore.Session=CfDJ8Bd5wIxF0mpGhf%2BRWFZh19JD1OK1nYpcyMK0VPwhd9TAPUmI565nwtLtK9gtJc15ZKmbKqlv2QW76z9BK%2FU7yoCkgKOf7QICGipxoPid2lmPx5ADgC%2BSl2LeJVgzVb0IT2QVpmQ78SWsi8ZKElzLtUYtaW7MPPnKyWHTClD5oJC8; path=/; samesite=lax; httponly
+X-Profile-Cache: hit, 40 ms
+X-Page-Type: 9
+X-Envoy-Upstream-Service-Time: 76
+X-Retries: 0
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Backend-Name: hg3(10.208.238.170:80)
+Content-Encoding: gzip
+X-Varnish: 19298563
+Via: 1.1 varnish (Varnish/6.0), 1.1 729399d6290e74ddd43cb2da1cab5266.cloudfront.net (CloudFront)
+X-Grace: none
+X-Mobile-Type: desktop
+X-Cachevarn: MISS
+Expires: Sat, 01 Dec 2001 00:00:00 GMT
+Vary: Accept-Encoding, X-Mobile-Type
+Accept-Ranges: bytes
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: SIN2-P1
+X-Amz-Cf-Id: U0azu0DBwG8rywtTgBrW8RvdAef60ZE7Vv7YVewaOgrQ52SRt9MRPg==
+Age: 0

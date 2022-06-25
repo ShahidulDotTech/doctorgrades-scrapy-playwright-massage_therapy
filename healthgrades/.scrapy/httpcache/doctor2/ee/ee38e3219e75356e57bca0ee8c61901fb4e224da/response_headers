@@ -1,0 +1,23 @@
+Content-Type: text/html; charset=utf-8
+Date: Sat, 25 Jun 2022 17:19:21 GMT
+Set-Cookie: hg.sessionInfo=c2Vzc2lvbklkPVM2NTIzJnJlcXVlc3RJZD1SOGU0OGU0YmE2ZTg0NDkyJmV4cGlyZXM9MDYlMkYyNSUyRjIwMjIrMTclM0E0OSUzQTIx; expires=Sat, 25 Jun 2022 17:49:21 GMT; domain=.healthgrades.com; path=/; httponly
+Set-Cookie: hg3.viewed.profile=124jwg|11swqauvs69|1xynrn79|1xc9xs|126mf5|1xylwxph|13l2rl|13xkmx1x266|12btrx|1ybqw7sz|1xymm8wm|1g9d2f|13b8xj|13p6vw|1xyll53n|124jg6|1y9tv5gz|13p94x|1jy6b2fj906|1xyncbm2; expires=Sat, 25 Jun 2022 17:49:21 GMT; path=/
+X-Profile-Cache: miss, 79 ms
+X-Page-Type: 9
+X-Envoy-Upstream-Service-Time: 111
+X-Retries: 0
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Backend-Name: hg3(10.208.238.170:80)
+Content-Encoding: gzip
+X-Varnish: 24295110
+Via: 1.1 varnish (Varnish/6.0), 1.1 500f4e37798a0a47047ecfa48f4fd932.cloudfront.net (CloudFront)
+X-Grace: none
+X-Mobile-Type: mobile
+X-Cachevarn: MISS
+Expires: Sat, 01 Dec 2001 00:00:00 GMT
+Vary: Accept-Encoding, X-Mobile-Type
+Accept-Ranges: bytes
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: SIN2-P1
+X-Amz-Cf-Id: WsK9jW5Vjz90FkAzgXu_DEwbou3OY5xOU6-GuQoAe49mJlAwK9UWSw==
+Age: 0

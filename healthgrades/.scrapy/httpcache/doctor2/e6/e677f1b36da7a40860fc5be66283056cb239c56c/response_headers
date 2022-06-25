@@ -1,0 +1,11 @@
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Date: Sat, 25 Jun 2022 16:12:33 GMT
+Server: Varnish
+X-Varnish: 23047509
+Cache-Control: public, max-age=0
+Content-Encoding: gzip
+X-Cache: Miss from cloudfront
+Via: 1.1 beabd6d4d869f3809233bc395642a58e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SIN2-P1
+X-Amz-Cf-Id: 0vM3KeE7jFAMCbR6LlN2piFKMDRkp-lByXcJMkGzvoOujV77d8T67g==

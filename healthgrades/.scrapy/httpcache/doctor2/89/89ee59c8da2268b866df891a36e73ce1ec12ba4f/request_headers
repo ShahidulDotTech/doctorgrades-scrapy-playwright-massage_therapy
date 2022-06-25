@@ -1,0 +1,6 @@
+Accept: application/json, text/plain, */*
+Referer: https://www.healthgrades.com/massage-therapy-directory/ny-new-york
+User-Agent: Scrapy/2.6.1 (+https://scrapy.org)
+Sec-Ch-Ua: 
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: 
