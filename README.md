@@ -9,4 +9,4 @@ To run the spider you have to write the below code in a linux shell
 
 `-O output.csv` - This part will save the data in a csv file named output.csv
 
-Here is the code to scrape the website doctorgrades.com. If it is helpful please click the star on the top right corner
+If it is helpful please click the star on the top right corner
