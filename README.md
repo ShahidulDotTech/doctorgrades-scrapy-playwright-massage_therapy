@@ -1,5 +1,5 @@
 # doctorgrades-scrapy-playwright-massage_therapy
-
+It is a project to crawl 1,800+ pages and scrape data out of it.
 
 The spider is called doctor
 
